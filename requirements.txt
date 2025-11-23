@@ -1,0 +1,5 @@
+# Used Python 3.10.6
+# PyTorch with CUDA 12.1 support
+# Install with: pip install -r requirements.txt --index-url https://download.pytorch.org/whl/cu121
+torch>=2.0.0
+torchvision>=0.15.0
